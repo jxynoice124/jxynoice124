@@ -1,1 +1,1 @@
-Hello i am jxynoice, a javascript and python coder.
+Hello i am jxynoice, a javascript and python developer.
